@@ -1,2 +1,1 @@
-# P82
-P
+# ST-82-Solution
